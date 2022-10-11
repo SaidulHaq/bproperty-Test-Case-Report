@@ -1,4 +1,4 @@
-# Manual Report
+# Manual Test Case Report
 
 - ***Report Description:***
 
