@@ -1,4 +1,4 @@
-# Manual Testing Report on bproperty website
+# Manual Testing Report on bproperty Website
 
 #### ***Report Description:***
 
