@@ -15,7 +15,7 @@ On the bproperty website, this manual testing project report includes:
 
 ![Test Report](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-![Test Metrics](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Test Metrics](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Test%20Mrtrics.jpg)
 
 ![Bug Report](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
