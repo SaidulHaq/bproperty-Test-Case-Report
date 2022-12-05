@@ -19,5 +19,5 @@ On the bproperty website, this manual testing project report includes:
 
 ![Bug Report](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Bug%20Report.jpg)
 
-![Mind Map](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Mind Map](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/bproperty_MindMap.png)
 
