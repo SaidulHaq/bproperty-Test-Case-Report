@@ -13,7 +13,7 @@ On the bproperty website, this manual testing project report includes:
 
 ## Screenshots
 
-![Test Report](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Test Report](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Test%20Report.jpg)
 
 ![Test Metrics](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Test%20Mrtrics.jpg)
 
